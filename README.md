@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAgODAiIHdpZHRoPSI4MCIgaGVpZ2h0PSI4MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cmVjdCB3aWR0aD0iODAiIGhlaWdodD0iODAiIHJ4PSIxMiIgZmlsbD0iIzBlMGUwZSIvPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQwLDQwKSI+CiAgICA8cGF0aCBkPSJNMCwtNCBMMTgsLTE4IEw0LDAgWiIgZmlsbD0iI2U4MzUwZSIvPgogICAgPHBhdGggZD0iTTQsMCBMMTgsMTggTDAsNCBaIiBmaWxsPSIjZmY2YTNkIi8+CiAgICA8cGF0aCBkPSJNMCw0IEwtMTgsMTggTC00LDAgWiIgZmlsbD0iI2U4MzUwZSIvPgogICAgPHBhdGggZD0iTS00LDAgTC0xOCwtMTggTDAsLTQgWiIgZmlsbD0iI2ZmNmEzZCIvPgogICAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjUuNSIgZmlsbD0iI2Y1ZjNlZiIvPgogICAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjIuNSIgZmlsbD0iIzBlMGUwZSIvPgogIDwvZz4KPC9zdmc+Cg==" width="80" height="80" alt="Shuriken"/>
+<img src="./logo.svg" width="80" height="80" alt="Shuriken"/>
 
 <h1>shuriken</h1>
 
